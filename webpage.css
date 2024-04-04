@@ -1,0 +1,159 @@
+.body {
+  padding-bottom: 1000px;
+
+}
+
+.navigation-panel {
+
+  display: flex;
+  justify-content: start;
+  padding-left: 50px;
+  margin-bottom: 0px;
+}
+
+.nav-bar-left {
+  display: flex;
+  align-items: end;
+
+}
+
+.logo-container {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  margin-top: 30px;
+  border-color: aqua;
+
+}
+
+.company-logo {
+  width: 70px;
+  height: 70px;
+}
+
+.paragraph {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  display: inline-block;
+  width: 200px;
+  vertical-align: bottom;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+
+.nav-bar-right {
+  width: 250px;
+  margin-left: 1000px;
+  display: flex;
+  align-items: end;
+
+}
+
+.button-create-freeAccount {
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  height: 30px;
+  margin-left: 20px;
+  padding: 15px, 10px;
+  border-radius: 7px;
+  background-color: white;
+  border-color: rgb(8, 229, 229);
+  cursor: pointer;
+
+}
+
+.first-wirte-up-container {
+  background-color: #9cbfe3;
+  display: block;
+  height: 260px;
+}
+
+
+
+.body-p1 {
+  padding-top: 30px;
+  margin-left: 350px;
+  color: black;
+  font-size: xx-large;
+  margin-bottom: 70px;
+}
+
+.body-p2 {
+  margin-left: 350px;
+  color: black;
+  font-size: x-large;
+}
+
+.body-p3 {
+  margin-left: 350px;
+  color: black;
+  font-size: large;
+}
+
+.second-write-up-container {
+  height: 100px;
+  display: block;
+}
+
+.body2-p1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  margin-left: 40px;
+  display: inline-block;
+}
+
+.Exclusive-p2 {
+  display: block;
+  background-color: aliceblue;
+
+}
+
+.input-container {
+  display: inline-block;
+  border-radius: 18px;
+  height: 70px;
+  width: 420px;
+  margin-left: 10px;
+}
+
+
+.input {
+  height: 52px;
+  padding: 20px 20px;
+  font-size: large;
+  border: none;
+  border-radius: 40px;
+  margin-left: 20px;
+}
+
+.button-view {
+  margin-top: 10px;
+  height: 50px;
+  border-radius: 20px;
+  border: none;
+  margin-left: -2px;
+  font-style: italic;
+  background-color: chartreuse;
+  cursor: pointer;
+}
+
+.body3-container {
+  margin-top: 100px;
+  height: 300px;
+  background-color: burlywood;
+  display: block;
+
+}
+
+.div1 {
+  display: block;
+}
+
+.house1 {
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
