@@ -1,14 +1,8 @@
-.body {
-  padding-bottom: 1000px;
-
-}
-
 .navigation-panel {
 
   display: flex;
   justify-content: start;
   padding-left: 50px;
-  margin-bottom: 0px;
 }
 
 .nav-bar-left {
@@ -65,9 +59,9 @@
 }
 
 .first-wirte-up-container {
-  background-color: #9cbfe3;
   display: block;
   height: 260px;
+  background-color: aqua;
 }
 
 
@@ -93,20 +87,21 @@
 }
 
 .second-write-up-container {
-  height: 100px;
+
+  height: 260px;
   display: block;
+
 }
 
 .body2-p1 {
   font-family: 'Times New Roman', Times, serif;
   font-size: xx-large;
   margin-left: 40px;
-  display: inline-block;
+  display: block;
 }
 
 .Exclusive-p2 {
-  display: block;
-  background-color: aliceblue;
+  display: inline-block;
 
 }
 
@@ -129,6 +124,7 @@
 }
 
 .button-view {
+  display: inline-block;
   margin-top: 10px;
   height: 50px;
   border-radius: 20px;
@@ -137,18 +133,19 @@
   font-style: italic;
   background-color: chartreuse;
   cursor: pointer;
+  padding: 8px;
 }
 
 .body3-container {
   margin-top: 100px;
   height: 300px;
   background-color: burlywood;
-  display: block;
+  display: inline-block;
 
 }
 
 .div1 {
-  display: block;
+  display: inline-block;
 }
 
 .house1 {
@@ -156,4 +153,22 @@
   width: 150px;
   height: 150px;
   display: inline-block;
+}
+
+
+
+.div-img {
+  display: block;
+  margin-top: 60px;
+  height: 1000px;
+  display: flex;
+  justify-items: space-between;
+  padding-top: 20px;
+  width: 1500px;
+  padding-bottom: 50px;
+  margin-top: 80px;
+}
+
+.body {
+  margin-top: 500px;
 }
